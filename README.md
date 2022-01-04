@@ -1,6 +1,6 @@
 # Python Basics
 
-Learn the basics of python
+Learn the basics of python3.
 
 ## Getting Started
 
