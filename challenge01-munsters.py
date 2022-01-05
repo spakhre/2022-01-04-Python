@@ -21,3 +21,6 @@ print(munsters['startDate'])
 # Add a new key, episodes mapped to the value of 70
 munsters['episodes'] = 70
 print(munsters['episodes'])
+
+third = 'this is 3rd "test"'
+print(third)
